@@ -1,0 +1,14 @@
+{
+  "preferences": {
+    "coworkWebSearchEnabled": true,
+    "ccdScheduledTasksEnabled": true,
+    "coworkScheduledTasksEnabled": true,
+    "sidebarMode": "task"
+  },
+  "mcpServers": {
+    "cricsheet": {
+      "command": "node",
+      "args": ["/Users/ketankittur/cricsheet-mcp/dist/index.js"]
+    }
+  }
+}
